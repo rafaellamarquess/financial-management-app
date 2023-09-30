@@ -6,14 +6,14 @@ O aplicativo permite que os usuários registrem e acompanhem suas despesas pesso
 ## Visão Geral
 
 Este app inclui as seguintes funcionalidades:
-⭕ - Registro de despesas com descrições, categorias e datas.
-⭕ - Visualização do histórico de transações
-⭕ - Relatórios Gráficos organizados por categoria e período.
-⭕ - Edição e exclusão de despesas.
-⭕ - Definição de metas e visualização do progresso
-⭕ - Lembretes para despesas recorrentes
-⭕ - Exportação de Dados em CSV ou PDF
-⭕ - [...]
+ - ⭕ Registro de despesas com descrições, categorias e datas.
+ - ⭕ Visualização do histórico de transações
+ - ⭕ Relatórios Gráficos organizados por categoria e período.
+ - ⭕ Edição e exclusão de despesas.
+ - ⭕ Definição de metas e visualização do progresso
+ - ⭕ Lembretes para despesas recorrentes
+ - ⭕ Exportação de Dados em CSV ou PDF
+ - ⭕ [...]
 
 ## Ferramentas
 Para executar o aplicativo localmente, você precisará ter as seguintes ferramentas instaladas:
