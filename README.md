@@ -1,7 +1,8 @@
 # Financial Management App
 
-Este é um projeto de aplicativo de gerenciamento de gastos desenvolvido em TypeScript usando as tecnologias React, React Native e Electron.
-O aplicativo permite que os usuários registrem e acompanhem suas despesas pessoais de forma eficaz, fornecendo uma experiência consistente em plataformas web, móveis e desktop.
+Este é um projeto de um aplicativo de gerenciamento financeiro desenvolvido utilizando as tecnologias React com Next.js e Electron para a versão desktop, e React Native com Expo para a versão mobile.
+
+O objetivo principal do aplicativo é permitir que os usuários registrem e acompanhem suas despesas pessoais de maneira eficiente, oferecendo uma experiência de usuário fluida tanto em dispositivos móveis quanto em desktops.
 
 ## Visão Geral
 
@@ -15,14 +16,11 @@ Este app inclui as seguintes funcionalidades:
  - ⭕ Exportação de Dados em CSV ou PDF
  - ⭕ [...]
 
-## Ferramentas
-Para executar o aplicativo localmente, você precisará ter as seguintes ferramentas instaladas:
+O aplicativo utiliza as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/)
-- [Electron](https://www.electronjs.org/)
 - [React](https://reactjs.org/)
+- [Next](https://nextjs.org/)
+- [Electron](https://www.electronjs.org/)
 - [React Native](https://reactnative.dev/)
-
-## Configuração do Ambiente
-
-[...]
+- [Expo](https://expo.dev/)
+- [Node.js](https://nodejs.org/)
