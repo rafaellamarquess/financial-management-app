@@ -1,7 +1,6 @@
 import { app, BrowserWindow } from 'electron' 
 import path from 'node:path'
 
-
 const createWindow = () => {
 	const mainWindow = new BrowserWindow({
     width: 800,
